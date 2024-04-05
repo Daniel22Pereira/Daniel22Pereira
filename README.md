@@ -44,6 +44,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Daniel22Pereira/Daniel22Pereira/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Daniel22Pereira/count.svg?"  />
+</div>
 
 ###
