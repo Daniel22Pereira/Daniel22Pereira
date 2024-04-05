@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi 👋! My name is Daniel and I'm a software developer from Portugal <img style="width: '10px' " src="https://cdn3.emoji.gg/emojis/4320-portugal.png">!
+## Hi 👋! My name is Daniel and I'm a software developer from Portugal!
 
 <br><br>
 
