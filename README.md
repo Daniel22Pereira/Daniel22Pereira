@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi 👋! My name is Daniel and I'm a software developer from Portugal U+1F1E6 U+1F1F4	&#127462 &#127476!
+## Hi 👋! My name is Daniel and I'm a software developer from Portugal &#127476!
 
 <br><br>
 
