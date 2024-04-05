@@ -1,3 +1,5 @@
+<div align="center">
+
 <h2 align="left">Hi 👋!   My name is Daniel and I'm a software developer from Portugal</h2>
 
 <br><br><br>
@@ -52,3 +54,5 @@
 </div>
 
 ###
+
+</div>
