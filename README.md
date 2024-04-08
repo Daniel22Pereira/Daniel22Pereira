@@ -44,7 +44,9 @@
 
   # 📓 Projects:
 
+  <br><br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel22Pereira&repo=DanKlips&theme=midnight-purple)](https://github.com/Daniel22Pereira/DanKlips)
+  <br><br>
 
 
   # 📫 How to reach me:
