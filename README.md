@@ -44,6 +44,7 @@
 
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel22Pereira&repo=DanKlips)](https://github.com/Daniel22Pereira/DanKlips)
+  
 
   # 📫 How to reach me:
 
