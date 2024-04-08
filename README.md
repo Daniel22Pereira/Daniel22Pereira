@@ -43,7 +43,7 @@
   <br><br>
 
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel22Pereira&repo=DanKlips)](https://github.com/Daniel22Pereira/DanKlips)
 
   # 📫 How to reach me:
 
