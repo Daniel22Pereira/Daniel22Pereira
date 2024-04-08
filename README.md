@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Daniel22Pereira/Daniel22Pereira/master/name.svg" alt="Marton Lederer" />
+
 # Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>! My name is Daniel and I'm a software developer from Portugal!
 
 <br>
