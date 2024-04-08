@@ -43,7 +43,7 @@
   <br><br>
 
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel22Pereira&repo=DanKlips)](https://github.com/Daniel22Pereira/DanKlips)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel22Pereira&repo=DanKlips&theme=midnight-purple)](https://github.com/Daniel22Pereira/DanKlips)
 
 
   # 📫 How to reach me:
