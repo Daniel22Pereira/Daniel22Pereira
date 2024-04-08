@@ -50,7 +50,7 @@
   <br>
   <br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel22Pereira&repo=Basic-MusicPlayer&theme=midnight-purple)](https://github.com/Daniel22Pereira/Basic-MusicPlayer)&nbsp;&nbsp;
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel22Pereira&repo=DanKlips&theme=midnight-purple)](https://github.com/Daniel22Pereira/DanKlips)&nbsp;&nbsp;
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel22Pereira&repo=VueProject&theme=midnight-purple)](https://github.com/Daniel22Pereira/VueProject)&nbsp;&nbsp;
   <br><br>
   
   # 🎵 What im listening to:
