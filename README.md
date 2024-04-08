@@ -26,7 +26,7 @@
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=ffffff)
   ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
   <br>
-  ![Node.js](https://img.shields.io/badge/-node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=ffffff)
+  ![Node.js](https://img.shields.io/badge/-node.js-github-readme-stats%23339933?style=for-the-badge&logo=node.js&logoColor=ffffff)
   ![dotNet](https://img.shields.io/badge/-.net-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=ffffff)
   ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=ffffff)
   ![Laravel](https://img.shields.io/badge/-laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff)
@@ -49,7 +49,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel22Pereira&repo=Ana-Cacho-Arcade&theme=midnight-purple)](https://github.com/Daniel22Pereira/Ana-Cacho-Arcade)&nbsp;&nbsp;
   <br>
   <br>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel22Pereira&repo=Basic-MusicPlayer&theme=midnight-purple)](https://github.com/Daniel22Pereira/Basic-MusicPlayer)&nbsp;&nbsp;
+  [![Readme Card](https://.vercel.app/api/pin/?username=Daniel22Pereira&repo=Basic-MusicPlayer&theme=midnight-purple)](https://github.com/Daniel22Pereira/Basic-MusicPlayer)&nbsp;&nbsp;
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel22Pereira&repo=VueProject&theme=midnight-purple)](https://github.com/Daniel22Pereira/VueProject)&nbsp;&nbsp;
   <br><br>
   
