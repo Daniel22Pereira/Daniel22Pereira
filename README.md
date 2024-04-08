@@ -3,7 +3,6 @@
 ## Hi 👋! My name is Daniel and I'm a software developer from Portugal!
 
 <br>
-<br>
 
 ![Counter](https://komarev.com/ghpvc/?username=Daniel22Pereira&style=for-the-badge&color=blueviolet&label=Views)
 
