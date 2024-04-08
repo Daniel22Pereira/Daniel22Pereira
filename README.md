@@ -3,9 +3,12 @@
 ## Hi 👋! My name is Daniel and I'm a software developer from Portugal!
 
 <br>
+<br>
 
 ![Counter](https://komarev.com/ghpvc/?username=Daniel22Pereira&style=for-the-badge&color=blueviolet&label=Views)
-  <br>
+
+<br>
+<br>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Daniel22Pereira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
