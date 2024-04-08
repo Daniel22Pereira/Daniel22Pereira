@@ -24,6 +24,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-%23339933?style=for-the-badge&logo=vue.js&logoColor=ffffff)
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=ffffff)
+  ![Tailwind](https://img.shields.io/badge/tailwind-bagde?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306B6D4)
   ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
   <br>
   ![Node.js](https://img.shields.io/badge/-node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=ffffff)
