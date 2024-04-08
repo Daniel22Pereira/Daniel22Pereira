@@ -31,6 +31,7 @@
   ![Laravel](https://img.shields.io/badge/-laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff)
   <br>
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=ffffff)
   <br>
