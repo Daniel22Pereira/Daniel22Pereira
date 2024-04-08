@@ -45,7 +45,9 @@
   # 📓 Projects:
 
   <br><br>
+  <div style="marginRight: '20px'">
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel22Pereira&repo=DanKlips&theme=midnight-purple)](https://github.com/Daniel22Pereira/DanKlips)
+  </div>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel22Pereira&repo=Ana-Cacho-Arcade&theme=midnight-purple)](https://github.com/Daniel22Pereira/Ana-Cacho-Arcade)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel22Pereira&repo=DanKlips&theme=midnight-purple)](https://github.com/Daniel22Pereira/DanKlips)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel22Pereira&repo=DanKlips&theme=midnight-purple)](https://github.com/Daniel22Pereira/DanKlips)
