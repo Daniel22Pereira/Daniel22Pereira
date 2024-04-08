@@ -47,8 +47,12 @@
   <br><br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel22Pereira&repo=DanKlips&theme=midnight-purple)](https://github.com/Daniel22Pereira/DanKlips)
   <br><br>
+  
+  # 🎵 What im listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=danielfofinho22&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=danielfofinho22&redirect=true)
+  <br><br>
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=danielfofinho22&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=danielfofinho22&redirect=true)
+  <br><br>
 
   # 📫 How to reach me:
 
