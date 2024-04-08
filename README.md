@@ -42,6 +42,7 @@
   ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
   <br><br>
 
+  # 📓 Projects:
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel22Pereira&repo=DanKlips&theme=midnight-purple)](https://github.com/Daniel22Pereira/DanKlips)
 
