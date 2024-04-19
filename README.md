@@ -19,7 +19,7 @@
 # 💻 Tech Stack:
 
   <br><br>
-  ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+  [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
   ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-%23339933?style=for-the-badge&logo=vue.js&logoColor=ffffff)
@@ -65,13 +65,13 @@
 
   <br><br>
   <div>
-  <a href="https://discordapp.com/users/678336016146366496">
+  <a href="https://discordapp.com/users/678336016146366496" style="text-decoration: none">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
   </a>  
-  <a href="mailto:danielpereira22costa@gmail.com">
+  <a href="mailto:danielpereira22costa@gmail.com" style="text-decoration: none">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
   </a>  
-  <a href="https://www.linkedin.com/in/daniel22pereira/">
+  <a href="https://www.linkedin.com/in/daniel22pereira/" style="text-decoration: none">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
   </a>  
   </div>
