@@ -21,10 +21,10 @@
   <br><br>
   [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![Vue.js](https://img.shields.io/badge/-Vue.js-%23339933?style=for-the-badge&logo=vue.js&logoColor=ffffff)]
-  [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=ffffff)]
-  [![Tailwind](https://img.shields.io/badge/tailwind-bagde?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306B6D4)]
-  [![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]
+  [![Vue.js](https://img.shields.io/badge/-Vue.js-%23339933?style=for-the-badge&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
+  [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=ffffff)](https://angular.io/)
+  [![Tailwind](https://img.shields.io/badge/tailwind-bagde?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306B6D4)](https://tailwindcss.com/)
+  [![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
   <br>
   [![Node.js](https://img.shields.io/badge/-node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
   [![dotNet](https://img.shields.io/badge/-.net-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=ffffff)](https://dotnet.microsoft.com/en-us/)
