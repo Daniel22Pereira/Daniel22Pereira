@@ -9,7 +9,7 @@
 
 <br>
 
-<div>
+<div style="display: flex">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel22Pereira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Daniel22Pereira&theme=midnight-purple&hide_border=false)
