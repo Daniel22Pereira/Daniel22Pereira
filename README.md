@@ -10,7 +10,6 @@
 <br>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniel22Pereira&rank_icon=github&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel22Pereira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Daniel22Pereira&theme=midnight-purple&hide_border=false)
